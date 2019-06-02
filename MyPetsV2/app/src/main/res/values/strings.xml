@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Pets V2</string>
+    <string name="novo">Novo</string>
+    <string name="nome">Nome</string>
+    <string name="data">Data</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="novo_evento">Novo Evento</string>
+    <string name="alterar_evento">Alterar Evento</string>
+    <string name="Dobby">Dobby</string>
+    <string name="Shake">Shake</string>
+    <string name="abrir">Abrir</string>
+    <string name="apagar">Apagar</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="confirmar_apagar">Deseja realmente apagar?</string>
+    <string name="aviso">Aviso</string>
+    <string name="ok">OK</string>
+    <string name="nome_vazio">O nome está vazio!</string>
+    <string name="data_vazia">A data está vazia!</string>
+    <string name="nenhum_pet">Não existe nenhum pet criado!</string>
+    <string name="pet">Pet</string>
+    <string name="pets">Pets</string>
+    <string name="pet_usado">O pet esta sendo usado e não pode ser apagado!</string>
+    <string name="novo_pet">Novo Pet</string>
+    <string name="alterar_pet">Alterar pet</string>
+    <string name="name_usado">Este nome já foi usada em outro Pet!</string>
+</resources>
